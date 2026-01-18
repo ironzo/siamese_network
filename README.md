@@ -82,7 +82,3 @@ The model performed reasonably well, with an accuracy of approximately 73.5%. Ho
    **Question 2:** "Do you like to read novels when you have spare time?"  
    **Cosine Similarity:** 0.6748  
    **Result:** [True]
-
----
-
-Feel free to customize this README further to suit your specific needs!
